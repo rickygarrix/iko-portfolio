@@ -1,0 +1,162 @@
+{
+  "top": {
+    "catchphrase": "今晚，发现你的音乐",
+    "title": "Otonavi",
+    "search": "按条件搜索",
+    "recommend": "本月推荐"
+  },
+  "meta": {
+    "title": "Otonavi - 探索音乐和夜生活地点",
+    "description": "Otonavi 是一项服务，帮助你找到爵士酒吧、俱乐部和现场音乐场所，享受夜晚的音乐。"
+  },
+  "about": {
+    "logo_alt": "Otonavi 标志",
+    "subtitle": "什么是 Otonavi？",
+    "description": "在夜晚，更轻松地享受音乐。OTONAVI不断进化，只为让新手也能无忧探索夜晚的音乐场所。",
+    "button": "寻找你喜欢的地方 →"
+  },
+  "header": {
+    "search": "条件",
+    "map": "开发中"
+  },
+  "searchFilter": {
+    "items": "项",
+    "title": "按条件搜索",
+    "open": "营业时间",
+    "open_all": "所有店铺",
+    "open_now": "仅营业中",
+    "genre": "音乐类型",
+    "area": "区域",
+    "payment": "支付方式",
+    "reset": "重置",
+    "search": "搜索",
+    "areas": {
+      "shibuya": "涩谷",
+      "shinjuku": "新宿",
+      "roppongi": "六本木",
+      "ebisu": "惠比寿",
+      "ginza": "银座",
+      "ikebukuro": "池袋",
+      "nakameguro": "中目黑",
+      "daikanyama": "代官山",
+      "omotesando": "表参道",
+      "akasaka": "赤坂",
+      "akihabara": "秋叶原",
+      "ueno": "上野",
+      "other": "其他"
+    }
+  },
+  "genres": {
+    "house": "浩室",
+    "techno": "电子",
+    "jazz": "爵士",
+    "hiphop": "嘻哈",
+    "rock": "摇滚",
+    "pops": "流行",
+    "reggae": "雷鬼",
+    "other": "其他",
+    "test": "测试"
+  },
+  "payments": {
+    "cash": "现金",
+    "credit": "信用卡",
+    "e_money": "电子货币",
+    "qr": "二维码",
+    "other": "其他"
+  },
+  "footer": {
+    "search": "条件搜索",
+    "map": "地图搜索（开发中）",
+    "contact": "联系",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "copyright": "© Otonavi"
+  },
+  "store": {
+    "nextOpen": "下次营业：{day} {time} 起"
+  },
+  "recommend": {
+    "openUntil": "{time} 结束营业",
+    "title": "本月推荐",
+    "subtitle": "推荐",
+    "open": "营业中",
+    "closed": "已打烊",
+    "close": "结束营业",
+    "noDescription": "暂无店铺介绍。",
+    "nextOpen": "下次营业：{day} {time} 起",
+    "days": {
+      "Monday": "周一",
+      "Tuesday": "周二",
+      "Wednesday": "周三",
+      "Thursday": "周四",
+      "Friday": "周五",
+      "Saturday": "周六",
+      "Sunday": "周日"
+    }
+  },
+  "searchResults": {
+    "openUntil": "{time} 结束营业",
+    "prompt": "🔍 请选择筛选条件并点击“搜索”按钮",
+    "loading": "加载中...",
+    "error": "发生错误",
+    "notFound": "未找到匹配的店铺。",
+    "resultLabel": "搜索结果",
+    "items": "件",
+    "open": "营业中",
+    "closed": "非营业时间",
+    "close": "结束营业",
+    "noDescription": "暂无店铺介绍。",
+    "nextOpen": "下次营业：{day} {time} 起",
+    "days": {
+      "Monday": "周一",
+      "Tuesday": "周二",
+      "Wednesday": "周三",
+      "Thursday": "周四",
+      "Friday": "周五",
+      "Saturday": "周六",
+      "Sunday": "周日"
+    }
+  },
+  "storeDetail": {
+    "mapTitle": "地图",
+    "descriptionLabel": "商户介绍",
+    "paymentTitle": "支付方式",
+    "infoTitle": "商户信息",
+    "name": "店名",
+    "genre": "音乐类型",
+    "address": "地址",
+    "access": "交通方式",
+    "hours": "营业时间",
+    "note": "*营业时间可能会有所变动。",
+    "website": "官方网站 →",
+    "open": "营业中",
+    "closed": "已打烊",
+    "close": "结束营业",
+    "nextOpen": "下次营业：{day} {time} 起",
+    "area": "区域",
+    "days": {
+      "Monday": "星期一",
+      "Tuesday": "星期二",
+      "Wednesday": "星期三",
+      "Thursday": "星期四",
+      "Friday": "星期五",
+      "Saturday": "星期六",
+      "Sunday": "星期日"
+    }
+  },
+  "areas": {
+    "shibuya": "涩谷",
+    "shinjuku": "新宿",
+    "roppongi": "六本木",
+    "ebisu": "惠比寿",
+    "ginza": "银座",
+    "ikebukuro": "池袋",
+    "nakameguro": "中目黑",
+    "daikanyama": "代官山",
+    "omotesando": "表参道",
+    "akasaka": "赤坂",
+    "akihabara": "秋叶原",
+    "ueno": "上野",
+    "other": "其他"
+  }
+}

@@ -1,0 +1,27 @@
+# ビルド関連
+.next/
+dist/
+out/
+build.log
+
+# モジュール
+node_modules/
+
+# 環境変数や個人ファイル
+.env
+.env.local
+.env.production
+
+
+.DS_Store
+*.log
+
+# 画像キャッシュなど
+public/instagram/
+
+# .gitignore に追記
+package-lock\ 2.json
+package-lock\ 3.json
+package-lock\ 4.jso
+
+.next/.vercel/

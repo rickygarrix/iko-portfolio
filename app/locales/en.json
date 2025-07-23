@@ -1,0 +1,162 @@
+{
+  "top": {
+    "catchphrase": "Find your sound tonight",
+    "title": "Otonavi",
+    "search": "Search by condition",
+    "recommend": "This Month's Picks"
+  },
+  "header": {
+    "search": "Search",
+    "map": "Developping"
+  },
+  "meta": {
+    "title": "Otonavi - Discover music and nightlife spots",
+    "description": "Otonavi helps you discover jazz bars, clubs, and live houses where you can enjoy music at night."
+  },
+  "about": {
+    "logo_alt": "Otonavi Logo",
+    "subtitle": "What is Otonavi?",
+    "description": "Enjoy nighttime music more casually (freely). Otonavi continues to evolve, making music venues feel welcoming even for first-timers.",
+    "button": "Find your favorite place →"
+  },
+  "searchFilter": {
+    "items": "items",
+    "title": "Search by condition",
+    "open": "Opening hours",
+    "open_all": "All stores",
+    "open_now": "Open now only",
+    "genre": "Genre",
+    "area": "Area",
+    "payment": "Payment method",
+    "reset": "Reset",
+    "search": "Search",
+    "areas": {
+      "shibuya": "Shibuya",
+      "shinjuku": "Shinjuku",
+      "roppongi": "Roppongi",
+      "ebisu": "Ebisu",
+      "ginza": "Ginza",
+      "ikebukuro": "Ikebukuro",
+      "nakameguro": "Nakameguro",
+      "daikanyama": "Daikanyama",
+      "omotesando": "Omotesando",
+      "akasaka": "Akasaka",
+      "akihabara": "Akihabara",
+      "ueno": "Ueno",
+      "other": "Others"
+    }
+  },
+  "genres": {
+    "house": "House",
+    "techno": "Techno",
+    "jazz": "Jazz",
+    "hiphop": "Hip-Hop",
+    "rock": "Rock",
+    "pops": "Pops",
+    "reggae": "Reggae",
+    "other": "Others",
+    "test": "Test"
+  },
+  "payments": {
+    "cash": "Cash",
+    "credit": "Credit Card",
+    "e_money": "E-Money",
+    "qr": "QR Code",
+    "other": "Others"
+  },
+  "store": {
+    "nextOpen": "Next opening: {time} {day}"
+  },
+  "recommend": {
+    "openUntil": "Open until {time}",
+    "title": "This Month's Picks",
+    "subtitle": "Recommend",
+    "open": "Open now",
+    "closed": "Closed",
+    "close": "",
+    "noDescription": "No store description available.",
+    "nextOpen": "Next opening: {time} {day}",
+    "days": {
+      "Monday": "Mon",
+      "Tuesday": "Tue",
+      "Wednesday": "Wed",
+      "Thursday": "Thu",
+      "Friday": "Fri",
+      "Saturday": "Sat",
+      "Sunday": "Sun"
+    }
+  },
+  "searchResults": {
+    "openUntil": "Open until {time}",
+    "prompt": "🔍 Please select search filters and press the 'Search' button",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "No matching stores found.",
+    "resultLabel": "Search Results",
+    "items": "items",
+    "open": "Open",
+    "closed": "Closed",
+    "close": "",
+    "noDescription": "No store description available.",
+    "nextOpen": "Next opening: {time} {day}",
+    "days": {
+      "Monday": "Mon",
+      "Tuesday": "Tue",
+      "Wednesday": "Wed",
+      "Thursday": "Thu",
+      "Friday": "Fri",
+      "Saturday": "Sat",
+      "Sunday": "Sun"
+    }
+  },
+  "storeDetail": {
+    "mapTitle": " Map",
+    "descriptionLabel": "Description",
+    "paymentTitle": "Payment Methods",
+    "infoTitle": "Store Information",
+    "name": "Store Name",
+    "genre": "Genre",
+    "address": "Address",
+    "access": "Access",
+    "hours": "Opening Hours",
+    "note": "*May vary depending on the day.",
+    "website": "Official Website →",
+    "open": "Open now",
+    "closed": "Closed",
+    "close": "",
+    "nextOpen": "Next opening: {time} {day}",
+    "area": "Area",
+    "days": {
+      "Monday": "Mon",
+      "Tuesday": "Tue",
+      "Wednesday": "Wed",
+      "Thursday": "Thu",
+      "Friday": "Fri",
+      "Saturday": "Sat",
+      "Sunday": "Sun"
+    }
+  },
+  "areas": {
+    "shibuya": "Shibuya",
+    "shinjuku": "Shinjuku",
+    "roppongi": "Roppongi",
+    "ebisu": "Ebisu",
+    "ginza": "Ginza",
+    "ikebukuro": "Ikebukuro",
+    "nakameguro": "Nakameguro",
+    "daikanyama": "Daikanyama",
+    "omotesando": "Omotesando",
+    "akasaka": "Akasaka",
+    "akihabara": "Akihabara",
+    "ueno": "Ueno",
+    "other": "Others"
+  },
+  "footer": {
+    "search": "Search",
+    "map": "Map Search (Coming Soon)",
+    "contact": "Contact",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "copyright": "© Otonavi"
+  }
+}

@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# オトナビ - ポートフォリオ提出用
 
-## Getting Started
+音楽・ナイトカルチャーに特化したレビュー投稿サービスです。  
+クラブ・バー・ライブハウスなどの雰囲気や客層をタグ付きで共有し、誰もが安心して遊べる体験をサポートします。
 
-First, run the development server:
+## 🌟 特徴
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 投稿機能（画像・タグ付きレビュー）
+- 店舗フォロー／いいね機能
+- Google Mapsで店舗検索
+- プロフィール編集、ログイン／退会フロー
+- 6桁コードによるメール認証（Resend + Supabase）
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 技術スタック
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 14（App Router）**
+- **TypeScript / Tailwind CSS**
+- **Supabase（Auth, DB, Storage, Edge Functions）**
+- **Resend（メール送信）**
+- **Vercel（ホスティング）**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 このリポジトリについて
 
-## Learn More
+このリポジトリはポートフォリオ提出用に作成したクリーン版です。  
+実際の開発履歴は非公開リポジトリにて管理しています。
 
-To learn more about Next.js, take a look at the following resources:
+## 🔗 デプロイURL（例）
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[https://otonavi.vercel.app](https://otonavi.vercel.app)
